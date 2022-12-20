@@ -5,8 +5,6 @@
 
 ### Link to Video Demo: https://youtu.be/euf5um5zlSY
 
-### Link to Deployed Website (Heroku): https://catch-21-dice.herokuapp.com/login
-
 ## Instructions on how to configure the project files to ensure proper functionality
 
 	In your IDE, within a folder which can have any name please create two separate folders: 
